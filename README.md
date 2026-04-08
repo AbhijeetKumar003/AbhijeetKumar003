@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=AbhijeetKumar003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/abhijeet-kumar/" target="_blank">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/abhijeet-kumar-3b81152b2/" target="_blank">LinkedIn</a> |
 <a href="mailto:abhijeet.as1010@gmail.com">Email</a>
 </p>
 <p align="center">
