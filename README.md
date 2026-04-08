@@ -1,3 +1,4 @@
+1"}
 <h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
 
 <p align="center">
@@ -23,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijeetKumar003&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetKumar003" />
 </p>
 
 <p align="center">
@@ -35,4 +36,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetKumar003&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetKumar003&theme=tokyonight" />
-</p>
+<
