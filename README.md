@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">🔐 Security-Focused Backend Engineer | Java & Web Technologies</h2>
-<br/>
+
 <p align="center">
   🚀 Building Secure, Scalable & Real-World Backend Systems
 </p>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhijeetKumar003&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AbhijeetKumar003&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
