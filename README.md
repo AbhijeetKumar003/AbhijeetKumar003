@@ -13,9 +13,6 @@
   💡 I specialize in building secure backend systems with real-world applications.
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,git,postman" />
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhijeetKumar003" />
 </p>
 <p align="center">
@@ -23,7 +20,6 @@
   <a href="mailto:abhijeet.as1010@gmail.com">Email</a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetKumar003&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijeetKumar003&theme=tokyonight" />
 
