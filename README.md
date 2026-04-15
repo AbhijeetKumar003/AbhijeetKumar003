@@ -7,6 +7,9 @@
 </p>
 <h2 align="center">🔐 Security-Focused Backend Engineer | Java & Web Technologies</h2>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,git,postman" />
+</p>
+<p align="center">
   🚀 Building Secure, Scalable & Real-World Backend Systems
 </p>
 <p align="center">
