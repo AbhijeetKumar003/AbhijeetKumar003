@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Backend+Developer;Security+Focused+Engineer;Building+Real-World+Systems" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijeetKumar003&layout=compact&theme=tokyonight" />
-</p>
 <h2 align="center">🔐 Security-Focused Backend Engineer | Java & Web Technologies</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,git,postman" />
